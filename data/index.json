@@ -1,11 +1,24 @@
 {
- "updatedAt": "2026-09-21T13:52:16+00:00",
+ "updatedAt": "2026-09-21T14:08:21+00:00",
  "platforms": [
   {
    "id": "ktown4u",
    "name": "Ktown4u",
    "supported": true,
    "events": [
+    {
+     "eventNo": "44520969",
+     "title": "LEECHANGSUB",
+     "description": "On / Off-line Sign Event",
+     "start": "2026-09-21 14:00:00.0",
+     "end": "2026-09-24 00:00:00.0",
+     "autofound": true,
+     "status": "live",
+     "tracked": true,
+     "hasSummary": false,
+     "total": 0,
+     "members": 2
+    },
     {
      "eventNo": "44518373",
      "title": "AxMxP",
@@ -44,17 +57,6 @@
      "hasSummary": true,
      "total": 8212,
      "members": 17
-    },
-    {
-     "eventNo": "44520969",
-     "title": "LEECHANGSUB",
-     "description": "On / Off-line Sign Event",
-     "start": "2026-09-21 14:00:00.0",
-     "end": "2026-09-24 00:00:00.0",
-     "autofound": true,
-     "status": "upcoming",
-     "tracked": false,
-     "hasSummary": false
     }
    ]
   },
