@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T04:53:03+00:00",
+ "updatedAt": "2026-09-21T05:08:08+00:00",
  "platforms": [
   {
    "id": "ktown4u",
@@ -44,6 +44,17 @@
      "hasSummary": true,
      "total": 8212,
      "members": 17
+    },
+    {
+     "eventNo": "44520969",
+     "title": "LEECHANGSUB",
+     "description": "On / Off-line Sign Event",
+     "start": "2026-09-21 14:00:00.0",
+     "end": "2026-09-24 00:00:00.0",
+     "autofound": true,
+     "status": "upcoming",
+     "tracked": false,
+     "hasSummary": false
     }
    ]
   },
